@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Do-seungjin</h1>
+<h1 align="center">안녕하세요 👋, 저는 도승진입니다.</h1>
 <h3 align="center">A passionate full-stack developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=do-seungjin&label=Profile%20views&color=0e75b6&style=flat" alt="do-seungjin" /> </p>
